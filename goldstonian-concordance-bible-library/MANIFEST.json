@@ -1,0 +1,23 @@
+{
+  "project": "goldstonian-concordance-bible-library",
+  "mode": "read-only",
+  "version": "2026.02",
+  "doi_placeholders": {
+    "zenodo_release": "10.5281/zenodo.REPLACE_ME",
+    "figshare_release": "10.6084/m9.figshare.REPLACE_ME"
+  },
+  "contents": [
+    "canonical-index/series.json",
+    "canonical-index/books.json",
+    "canonical-index/chapters.json",
+    "canonical-index/passages.ndjson",
+    "vocab/controlled-vocab.json",
+    "themes/themes.ndjson",
+    "citations/references.bib",
+    "citations/csl.json",
+    "citations/citation-map.ndjson",
+    "crosswalk.csv",
+    "schema/schema.org.jsonld",
+    "agents/learn-goldstonian-concordance-bible/*"
+  ]
+}
