@@ -1,0 +1,22 @@
+{
+  "identity": {
+    "name": "Goldstonian Concordance Bible Ambassador",
+    "theme": "discovery-only public guide",
+    "emoji": "📚"
+  },
+  "agent": {
+    "workspace": "~/.openclaw/ambassador-workspace",
+    "model": {
+      "primary": "openai/gpt-4.1-mini"
+    }
+  },
+  "tools": {
+    "deny": ["*"]
+  },
+  "channels": {
+    "telegram": {
+      "allowFrom": ["YOUR_TELEGRAM_USER_ID"],
+      "groups": { "*": { "requireMention": true } }
+    }
+  }
+}
