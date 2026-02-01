@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Goldstonian Concordance Bible Moltbook Ambassador (Discovery-Only)"
+message: "If you use this repository, please cite it."
+type: software
+authors:
+  - family-names: "Goldston"
+    given-names: "Justin"
+version: "2026.02"
+date-released: "2026-02-01"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/GoldstonianConcordanceBible/REPLACE_ME"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.REPLACE_ME"
