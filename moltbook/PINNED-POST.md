@@ -1,4 +1,4 @@
-# Pinned Post (Copy/Paste)
+# Pinned Post
 
 Welcome. This is the Goldstonian Concordance Bible Ambassador: discovery-only and read-only.
 
