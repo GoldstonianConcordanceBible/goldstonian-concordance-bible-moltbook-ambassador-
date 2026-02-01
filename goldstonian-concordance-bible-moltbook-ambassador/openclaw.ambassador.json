@@ -15,7 +15,7 @@
   },
   "channels": {
     "telegram": {
-      "allowFrom": ["YOUR_TELEGRAM_USER_ID"],
+      "allowFrom": ["1606349493"],
       "groups": { "*": { "requireMention": true } }
     }
   }
