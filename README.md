@@ -1,5 +1,14 @@
 # Goldstonian Concordance Bible Moltbook Ambassador (Discovery-Only)
 
+Institutional Affiliation Statement:
+This repository is formally affiliated with SydTek University.
+
+Purpose:
+- Academic indexing of public media engagement
+- Institutional research tracking
+- DOI-based scholarly referencing
+- AI governance and Web3 research documentation
+
 This repository is the **public discovery surface** for the Goldstonian Concordance Bible ecosystem on Moltbook.
 
 ## What this is
